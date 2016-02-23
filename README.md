@@ -1,12 +1,12 @@
 # Ruyi.Ai Helpdesk
 
-* [接口说明](#接口说明)
-  * [GET /message](#GET-message)
+* [接口说明](#api接口说明)
+  * [GET /message](#get-message)
   * [服务返回结果](#服务返回结果)
 * [更新说明](#更新说明)
 * [注意事项](#注意事项)
 
-## 接口说明
+## API接口说明
 
 API (v1.0.0) 服务的域名URL
 ````
