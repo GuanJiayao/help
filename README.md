@@ -1,8 +1,8 @@
 # Ruyi.Ai Helpdesk
 
-* [接口说明](#api接口说明)
+* [API接口说明](#api接口说明)
   * [GET /message](#get-message)
-  * [服务返回结果](#服务返回结果)
+  * [Intent（意图）](#intent-意图)
 * [更新说明](#更新说明)
 * [注意事项](#注意事项)
 
@@ -64,9 +64,8 @@ http://api.ruyi.ai/v1/message?q=1-1等于几&app_key=304abf8a-2172-42e0-8e1f-c18
 </pre>
 
 
-### 服务返回结果
 
-#### Intent （意图）
+### Intent （意图）
 Intent 指自然语言文本中提取的一个用户意图，对应原文中的一段文字。它对应到知识图谱中的一个节点，例如命名实体，用户命令等。
 
 
